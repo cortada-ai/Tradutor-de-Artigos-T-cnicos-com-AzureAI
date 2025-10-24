@@ -1,4 +1,4 @@
-# Tradutor-de-Artigos-T-cnicos-com-AzureAI
+# Tradutor-de-Artigos-Tecnicos-com-AzureAI
 Tradutor de Artigos Técnicos com AzureAI
 # Iniciação no aprendizado de IA
 
